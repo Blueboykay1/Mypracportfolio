@@ -1,0 +1,29 @@
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+nav{display: flex;
+top: 0;
+right: 0;
+left:0;}
+li{
+    display: inline;
+}
+
+ul{background-color: aqua
+    ;
+padding: 20px 0;
+position: fixed;
+left:0;
+right:0;
+top:0;
+;}
+li :hover{ color: brown;
+font-size:larger ;
+font-weight: bold;
+cursor: pointer}
+a{padding: 20px;
+color:white;
+text-decoration: none ;
+font-family: sans-serif;}
+
+body {background-color: thistle;}
